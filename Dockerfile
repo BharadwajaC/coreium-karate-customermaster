@@ -5,4 +5,4 @@ RUN git clone https://github.com/BharadwajaC/coreium-karate-customermaster.git
 RUN chmod -R 777 coreium-karate-customermaster
 WORKDIR /coreium-karate-customermaster
 RUN mvn -v
-RUN mvn clean install
+RUN mvn clean test
