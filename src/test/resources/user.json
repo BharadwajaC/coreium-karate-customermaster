@@ -1,0 +1,88 @@
+{
+
+  "salutation":"Ms",
+  "firstName":"Sim",
+  "middleName":"",
+  "lastName":"Ann",
+  "dateOfBirth":"1999-10-13",
+  "gender":"Female",
+  "countryOfResidence":"Malaysia",
+  "nationality":"India",
+  "residenceStatus":"",
+  "maritalStatus":"single",
+  "religion":"hindu",
+  "race":"",
+  "preferredLanguage":"English",
+  "address":[{
+    "type":"",
+    "addressLineOne":"",
+    "addressLineTwo":"",
+    "city":"",
+    "state":"",
+    "postalCode":"",
+    "country":""
+  },
+    {
+      "type":"",
+      "addressLineOne":"",
+      "addressLineTwo":"",
+      "city":"",
+      "state":"",
+      "postalCode":"",
+      "country":""
+    },
+    {
+      "type":"residence",
+      "addressLineOne":"no:141/19",
+      "addressLineTwo":"Grinlays apartmemt",
+      "city":"chennai",
+      "state":"tamilnadu",
+      "postalCode":"600040",
+      "country":"India"
+    }],
+  "addressCorrespondence":"Residence",
+  "primaryMobileNumber":"+916845279627",
+  "secondaryMobileNumber":"",
+  "officeContactNumber":"",
+  "residenceContactNumber":"",
+  "socialMediaAccount":
+  {
+    "whatsapp":"",
+    "linkedIn":"",
+    "insta":""
+  },
+  "primaryEmailId":"moneymart@gmail.com",
+  "secondaryEmailId":"",
+  "documentType":"DL",
+  "documentIssueCountry":"malaysia",
+  "documentNumber":"DM213230",
+  "documentIssueDate":"2022-10-11",
+  "documentExpiryDate":"2025-11-21",
+  "documentFrontImageId":"401897636563",
+  "documentBackImageId":"5991897636563",
+  "customerProfilePhotoId":"100861757728",
+  "customerSignatureId":"274993748397",
+  "customerProduct":"",
+  "cutomerWallet":"",
+  "riskRating":"LOW",
+  "lastReviewDate":"2022-10-05 13:19:49",
+  "nextReviewDate":"2024-12-12 17:29:32",
+  "profession":"business",
+  "currentEmployerName":"",
+  "workingSince":"",
+  "position":"",
+  "industry":"",
+  "mothersMaidenName":"Sunny",
+  "customerOnboardingDate":"",
+  "sourceChannel":"BO",
+  "sourceAgentId":"",
+  "sourceAgentName":"",
+  "customerSegment":"retail customer",
+  "currentAnnualIncome":"$990.91",
+  "customerMiscillaneous":{
+    "field1":"",
+    "field2":"",
+    "field3":""
+  }
+
+}
