@@ -1,4 +1,4 @@
-FROM maven:3.9.3-openjdk-17
+FROM maven:3.8.3-openjdk-16
 RUN apt-get update        
 RUN apt-get install -y git
 RUN git clone https://github.com/BharadwajaC/coreium-karate-customermaster.git
